@@ -5,8 +5,7 @@
 <a href="https://www.instagram.com/raphaela_vilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.facebook.com/raphaelavilela13?mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  
-![raphaelavilela]GitHub stats] (https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green) 
-<br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelavilela&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
  ## Tecnologias que eu uso no meu dia
 
